@@ -12,7 +12,7 @@ Hello everyone! I'm Luong Ngoc Phuong, a newcomer in the field of Artificial Int
 - **Skills**: I have a basic understanding of Python programming and have started exploring model in Machine Learning, Deep Learning.
 
 ## ⚡ Personal Projects
-- IMDb Reviews Classification.
+- IMDb Reviews Classification. [https://github.com/npphuong210/IMDb-Reviews-Classification]
 - CNN Articles Classification
 - Research on Overfitting and Optimization of Machine Learning models
 
