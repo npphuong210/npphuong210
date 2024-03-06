@@ -13,7 +13,7 @@ Hello everyone! I'm Luong Ngoc Phuong, a newcomer in the field of Artificial Int
 
 ## ⚡ Personal Projects
 - IMDb Reviews Classification. [https://github.com/npphuong210/IMDb-Reviews-Classification]
-- CNN Articles Classification
+- CNN Articles Classification [https://github.com/npphuong210/CNN-Articles-Classification]
 - Research on Overfitting and Optimization of Machine Learning models
 
 ## ⚡ Goals
