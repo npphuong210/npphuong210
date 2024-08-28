@@ -28,5 +28,3 @@ My goal is to become an expert in the field of AI and Machine Learning. I am see
 Created with ❤️ by Luong Ngoc Phuong
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/npphuong210=DenverCoder1)](https://git.io/streak-stats)
