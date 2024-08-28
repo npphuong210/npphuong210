@@ -17,7 +17,7 @@ Hello everyone! I'm Luong Ngoc Phuong, a newcomer in the field of Artificial Int
 - Research on Overfitting and Optimization of Machine Learning models
 
 ## ⚡ Goals
-My goal is to become an expert in the field of AI and Machine Learning. I am seeking internship opportunities or real-world projects to apply my knowledge and skills and learn from experienced professionals in the industry.
+My goal is to become an expert in the field of AI and Machine Learning. I am seeking opportunities or real-world projects to apply my knowledge and skills and learn from experienced professionals in the industry.
 
 ## 📫 Contact
 - **Email**: npphuong210@gmail.com
