@@ -28,3 +28,6 @@ My goal is to become an expert in the field of AI and Machine Learning. I am see
 Created with ❤️ by Luong Ngoc Phuong
 
 ---
+
+## ✨ Roadmap
+[https://roadmap.sh/card/wide/66dd98c1c46f68d052ec3e97?variant=dark]
