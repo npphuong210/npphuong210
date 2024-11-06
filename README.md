@@ -30,4 +30,4 @@ Created with ❤️ by Luong Ngoc Phuong
 ---
 
 ## ✨ Roadmap
-[https://roadmap.sh/card/wide/66dd98c1c46f68d052ec3e97?variant=dark]
+https://roadmap.sh/card/wide/66dd98c1c46f68d052ec3e97?variant=dark
